@@ -17,9 +17,7 @@ application.
 8) Add coordinate of pinpoint places
 9) Add feature to upload profile picture 
 10) Add notification about weather forecast
-11) Test 
-12) HELLO
-13) Hiii
+
 
 Task assigned:
 1) Project Manager – Nang Nurhasya binti Nik Mohd Fadzil
