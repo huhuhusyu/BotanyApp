@@ -7,16 +7,16 @@ humidity because this application is a combination of two bulky equipment, into 
 application. 
 
 10 change requests:
-1)
-2)
-3)
-4)
-5)
-6)
-7)
-8)
-9)
-10)
+1) Complete database
+2) Change theme from green to purple
+3) Increase complexity
+4) Add a pinpoint feature into the map
+5) Add a list of pinpoint places 
+6) Generate report of humidity percentage
+7) Generate report of temperature
+8) Add coordinate of pinpoint places
+9) Add feature to upload profile picture 
+10) Add notification about weather forecast
 
 Task assigned
 Project Manager – Nang Nurhasya binti Nik Mohd Fadzil
