@@ -18,9 +18,9 @@ application.
 9) Add feature to upload profile picture 
 10) Add notification about weather forecast
 
-Task assigned
-Project Manager – Nang Nurhasya binti Nik Mohd Fadzil
-Requirement & Design Leader – Nor Farisha Amira binti Johari
-Implementation Leader – Adriana Farhana binti Abd Talib
-Quality Assurance Leader – Siti Khadijah binti Mohamad Anuar
-Software Maintenance Leader – Nur Arfah Nadeirah binti Abdul Hafeidz
+Task assigned:
+1) Project Manager – Nang Nurhasya binti Nik Mohd Fadzil
+2) Requirement & Design Leader – Nor Farisha Amira binti Johari
+3) Implementation Leader – Adriana Farhana binti Abd Talib
+4) Quality Assurance Leader – Siti Khadijah binti Mohamad Anuar
+5) Software Maintenance Leader – Nur Arfah Nadeirah binti Abdul Hafeidz
