@@ -7,16 +7,17 @@ humidity because this application is a combination of two bulky equipment, into 
 application. 
 
 10 change requests:
-1) Complete database
-2) Change theme from green to purple
-3) Increase complexity
-4) Add a pinpoint feature into the map
-5) Add a list of pinpoint places 
-6) Generate report of humidity percentage
-7) Generate report of temperature
-8) Add coordinate of pinpoint places
-9) Add feature to upload profile picture 
-10) Add notification about weather forecast
+1)Add indicator of humidity level in humidity page.
+2)Add indicator of temperature level in temperature page.
+3)Remove action bar in main page.
+4)Remove action bar in humidity page.
+5)Remove action bar in temperature page.
+6)Remove action bar in login page.
+7)Upgrade authentication method to send authentication email for registered user.
+8)Add forgot password function.
+9)Fix error/bugs for profile activity.
+10)Add validation for login activity.
+
 
 
 Task assigned:
