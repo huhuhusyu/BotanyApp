@@ -7,16 +7,17 @@ humidity because this application is a combination of two bulky equipment, into 
 application. 
 
 10 change requests:
-1)Add indicator of humidity level in humidity page.
-2)Add indicator of temperature level in temperature page.
-3)Remove action bar in main page.
-4)Remove action bar in humidity page.
-5)Remove action bar in temperature page.
-6)Remove action bar in login page.
-7)Upgrade authentication method to send authentication email for registered user.
-8)Add forgot password function.
-9)Fix error/bugs for profile activity.
-10)Add validation for login activity.
+Add indicator of humidity level in humidity page.
+Add indicator of temperature level in temperature page.
+Remove action bar in main page.
+Remove action bar in humidity page.
+Remove action bar in temperature page.
+Remove action bar in login page.
+Upgrade authentication method to send authentication email for registered user.
+Add forgot password function.
+Fix error/bugs for profile activity.
+Add validation for login activity.
+
 
 
 
